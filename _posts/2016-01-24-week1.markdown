@@ -13,8 +13,10 @@ I changed up my strategy and started storing for ranges. I stored the max cycle 
 An odd ball trick. I thought about encoding the cycle lengths into characters. Characters have 8 bytes. I need 10 bytes for each cycle length maximum. Using the encoding trick, I thought I could have smaller increments. I tried outputting that into a file and failed miserably because the text editor understood all the line-break, paragraph, and other formatting characters and would not put them into the string. If someone was watching me while I did this, I would be utterly embarrased.
 
 Tip of the Week: Do not try encoding numbers into the bytes of a character if the range is too large.
+
 Also, you can time snippets of code like this:
-```python
+
+~~~python
 from timeit import Timer
 Timer('str(100000)').timeit()
-```
+~~~
