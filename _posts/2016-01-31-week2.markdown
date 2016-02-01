@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week of 31 Jan 2016"
+date:   2016-01-31 21:34:56
+categories: weekly
+---
+#### 1. What did you do this past week?
+I worked furiously on collatz. Then, with the help of classmates, the Sphere Online Judge (SPOJ) allowed me to pass. Now I am 17th place for PYTH3.4 in that problem. Whoo!
+I also sped read the Extreme Programming book because there doesn't seem to be too much technical knowledge and felt more conversational. For the Javascript book, I believe I read a lot of it earlier in the semester, so I refreshed my memory a little before the quiz.
+
+#### 2. What's in your way?
+SPOJ used to be in my way. Now the amount of memory available on the lab machines prevent me from processing Netflix data all at once. This will lead to much more work to be able to process the data. In addition to hardware difficulties, the career fair is sneaking up this week and the balance of school and fun (aka career fair) is going to be hard to control.
+
+#### 3. What will you do next week?
+Next week will be continued efforts to work on Netflix, but also to polish and check the collatz project for final submission.
+
+#### Tip of the Week:
+The useful coverage tool we are required to use has a beautiful output format when you tell it to output html.
+Run this after running coverage instead of 'report'.
+
+~~~
+coverage3 html
+~~~
