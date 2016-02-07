@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week of 7 Feb 2016"
+date:   2016-02-07 01:23:45
+categories: weekly
+---
+#### 1. What did you do this past week?
+I went to the career fair to network with a few companies and grab a few t-shirts.
+
+My partner and I cached values for a few different metrics to try and get an RMSE below 1.
+So far, we have not been able to find a viable solution for the probe.
+
+#### 2. What's in your way?
+Finding an approach for the netflix data is a little difficult because it looks like a lot of the data has to be processed in chucks because memory is not large enough to handle all of it at once. Some of the simple approaches we tried bring us close to the 1.0 threshold but we are not able to break under it for the probe. I think it would also be useful to determine our RMSE over the entire data set at some point.
+
+#### 3. What will you do next week?
+Next week will be continued efforts to work on Netflix, but also to look over some of the lecture notes and code to try and get some studying out of the way for the test. Let's face it. The tests are weighted a lot more and they are harder to pass because we have to rely on our dumb brain for recall.
+
+Hopefully, we can refactor the netflix code a little bit so that we can claim that the notion of code-reuse exists in our world.
+
+#### Tip of the Week:
+Google hangouts is apparently going P2P. Are we going to be harnessing the power of internet connections for everything?
+Will there be a way to do this between willing people on cellular data plans? [article](http://www.techtimes.com/articles/131368/20160206/google-hangouts-taps-p2p-for-better-audio-and-video-to-improve-call-quality.htm)
