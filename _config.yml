@@ -1,6 +1,6 @@
 # Site settings
 title: "CS373 Spring 2016: Min Bi"
-avatar: "http://minbi.github.io/cs373-blog/me.png"
+avatar: "./icon.png"
 description: > # this means to ignore newlines until "baseurl:"
   A weekly blog of the happenings in Software Engineering.
 baseurl: "/cs373-blog" # the subpath of your site, e.g. /blog/

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Week of 14 Feb 2016"
+date:   2016-02-14 01:23:45
+categories: weekly
+---
+#### 1. What did you do this past week?
+A group of my friends and I participated in the Health App Design Challenge. We used this opportunity to force ourselves to develop on Android. We really forced ourselves. We slaved away at our app for about 30 hours to understand how the Android platform works and create the GUI for the app. In reality, maybe there was more time spent on the GUI than anything else. Programming was really the same, but the way the code worked in the system was the unfamiliar part.
+
+I also setup a (almost empty, but will be updated) website for it [here](http://www.heartbleeds.org/).
+
+We listened Main Street Hub's presentation and got to see some of the technologies that they were using to build their system and hear about what they did.
+
+#### 2. What's in your way?
+The number of hours in the day are in my way. When you set out to do something within a small amount of time, you always wish that there was more time. In reality, you must balance your time (aka do school work and graduate).
+
+#### 3. What will you do next week?
+Next week, my partner and I will prepare our netflix project for submission and cross our fingers that we don't lose too many points due to the acceptance tests. Previous aspirations to refactor may be put off or by deemed unecessary.
+
+#### Tip of the Week:
+An Android emulator that is better than the stock that comes with Android Studio: [Genymotion](https://www.genymotion.com/)
