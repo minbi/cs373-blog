@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Week of 21 Feb 2016"
+date:   2016-02-21 01:23:45
+categories: weekly
+---
+#### 1. What did you do this past week?
+My partner and I wrapped up netflix crossing the T's and dotting the I's which took an exorbitant amount of time. We crossed our fingers as we awaited the dreaded email that our submission was invalid, but it seems to have never come. We can only assume for now that we are safe.
+
+I really wonder if the inner workings of different languages are well documented and how many people actually know about them. Also, even if we learn about the intricacies of say Python 3, will we be able to still learn the changes in Python 8 towards the end of our CS careers. Does this inherently mean that we will all be stamped @Deprecated at some point?
+
+#### 2. What's in your way?
+Nothing in particular is in my way, just trying to get up early in the morning can be difficult when working with groups during the night.
+
+The io from world to brain is constant struggle. There are not enough hours in the day and not enough years in my life to allow me to live my life. Options in life are constantly cut by the lack of time.
+
+#### 3. What will you do next week?
+The plan is to start studying for the midterm and keep up with the material, so that the upcoming test doesn't require any last minute cramming. We will see how far this plan is carried out. No, the WiLl be carried out. Maybe that attitude will help it coe to fruition.
+
+#### Tip of the Week:
+IBM and XPrize are giving us the Netflix Challenge of our age with $5 million dollars announced as the prize for using IBM's artificial intelligence platform in a novel way. [Article](https://www.inverse.com/article/11757-ibm-and-xprize-bet-5-million-on-making-us-forget-about-skynet)
