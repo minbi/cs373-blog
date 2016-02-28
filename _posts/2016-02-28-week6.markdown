@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week of 28 Feb 2016"
+date:   2016-02-28 01:23:45
+categories: weekly
+---
+#### 1. What did you do this past week?
+This week the focus shifted from this class to another class, maybe a little too much, but I did get a chance to look over some of the notes from class in preparation for the exam. In class, we learned about the function arguments. I remember thinking, "Wouldn't it be nice to pass in arguments as a list?", at some point during my work with Java and C, but viola! Python. At this point, I'm unsure whether I hate Python more or love it. I'm beginning to embrace Python...what has happened to me?
+
+#### 2. What's in your way?
+Again time, and more importantly sleep time. Can we all just go to sleep?
+
+I'm a little confused about the reading vs the test. Yes, I have read the readings, maybe not with a fine comb, but will they affect the test? It appears not? At least JavaScript isn't on the test. Or will it? o.O
+
+#### 3. What will you do next week?
+Next week, same old same old, but aha, with a test. I'll go over the topics posted for the test and possibly practice coding some of them (all of them?). I wonder how much time I should/can dedicate to stduying for this test. Python doesn't seem to be as strict anout types, but it can kind of be in a sneaky not so clear way. Hmmm, I wonder if there are any projects I'm forgetting about...
+
+#### Tip of the Week:
+[scp](https://en.wikipedia.org/wiki/Secure_copy) Right, I did not try using this until recently. I'm sure it'll make those who live on the terminal happy. I like my gui's.
