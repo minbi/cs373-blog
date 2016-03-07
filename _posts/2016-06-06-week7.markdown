@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Week of 6 Mar 2016"
+date:   2016-03-06 01:23:45
+categories: weekly
+---
+#### 1. What did you do this past week?
+This week, I prepared for the test. Although in hindsight, I should have gone over the most recent topics a bit more since they weren't as engraved in my head when I sat down for the test. I think for the last question I had a brain fart and ended up writing an infinite loop instead of returning an iterable object. Aggh, the agony of walking out of a test  and then realizing you messed up.
+
+#### 2. What's in your way?
+School, school is in my way to spring break. I wonder how much more vacation I will have once I join the workforce. I wonder how this last "spring break" will be? What if I go back to school for another degree? Will I be "spring breaking" anymore after this? Another phase of life seems to be coming to an end? Is this a pre-mid-life crisis? Hmm. 
+
+#### 3. What will you do next week?
+Next week, I will be studying for my tests in other classes and brainstorming with my group about what our project will be. However, I'm not sure if any work will be done. It will depend on how jittery everyone is to go on break. Will we work? or will we play? Databases, hmm, I remember those. I guess we will start working with those once again. Just finished a project where PHP interacted with SQL but I wonder what languages we will end up using? Will we be using Python? Although, I think finding a topic that we will all be interested in will be most challenging at the moment.
+
+#### Tip of the Week:
+While the FBI and Apple are fighting the encryption battle, others are getting closer to breaking encryption altogether with quantum computing. I think they can get the prime factorization of 15?  [Article](http://www.pcworld.com/article/3041115/security/mits-new-5-atom-quantum-computer-could-transform-encryption.html)
